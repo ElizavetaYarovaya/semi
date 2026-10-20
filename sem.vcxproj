@@ -19,18 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sem\binarnaya_sortirovka_vstavkami.h" />
-    <ClInclude Include="sem\puzyrkovaya_sortirovka.h" />
-    <ClInclude Include="sem\sortirovka_obmenom.h" />
-    <ClInclude Include="sem\sortirovka_vstavkami.h" />
-    <ClInclude Include="sem\estestvennaya_sortirovka_sliyaniem.h" />
-    <ClInclude Include="sem\odnofaznaya_sortirovka_sliyaniem.h" />
-    <ClInclude Include="sem\optimizirovannaya_puzyrkovaya.h" />
-    <ClInclude Include="sem\bystraya_sortirovka.h" />
-    <ClInclude Include="sem\sortirovka_vyborom.h" />
-    <ClInclude Include="sem\sheykernaya_sortirovka.h" />
-    <ClInclude Include="sem\sortirovka_shella.h" />
-    <ClInclude Include="sem\dvuhfaznaya_sortirovka_sliyaniem.h" />
+    <ClInclude Include="binarnaya_sortirovka_vstavkami.h" />
+    <ClInclude Include="bystraya_sortirovka.h" />
+    <ClInclude Include="dvuhfaznaya_sortirovka_sliyaniem.h" />
+    <ClInclude Include="estestvennaya_sortirovka_sliyaniem.h" />
+    <ClInclude Include="odnofaznaya_sortirovka_sliyaniem.h" />
+    <ClInclude Include="optimizirovannaya_puzyrkovaya.h" />
+    <ClInclude Include="puzyrkovaya_sortirovka.h" />
+    <ClInclude Include="sheykernaya_sortirovka.h" />
+    <ClInclude Include="sortirovka_obmenom.h" />
+    <ClInclude Include="sortirovka_shella.h" />
+    <ClInclude Include="sortirovka_vstavkami.h" />
+    <ClInclude Include="sortirovka_vyborom.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
